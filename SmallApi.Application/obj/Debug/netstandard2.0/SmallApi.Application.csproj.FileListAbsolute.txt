@@ -1,0 +1,16 @@
+C:\WA-GIT\smallapi-mediator\SmallApi.Application\bin\Debug\netstandard2.0\SmallApi.Application.deps.json
+C:\WA-GIT\smallapi-mediator\SmallApi.Application\bin\Debug\netstandard2.0\SmallApi.Application.dll
+C:\WA-GIT\smallapi-mediator\SmallApi.Application\bin\Debug\netstandard2.0\SmallApi.Application.pdb
+C:\WA-GIT\smallapi-mediator\SmallApi.Application\obj\Debug\netstandard2.0\SmallApi.Application.csprojAssemblyReference.cache
+C:\WA-GIT\smallapi-mediator\SmallApi.Application\obj\Debug\netstandard2.0\SmallApi.Application.AssemblyInfoInputs.cache
+C:\WA-GIT\smallapi-mediator\SmallApi.Application\obj\Debug\netstandard2.0\SmallApi.Application.AssemblyInfo.cs
+C:\WA-GIT\smallapi-mediator\SmallApi.Application\obj\Debug\netstandard2.0\SmallApi.Application.dll
+C:\WA-GIT\smallapi-mediator\SmallApi.Application\obj\Debug\netstandard2.0\SmallApi.Application.pdb
+C:\Users\sbtmda\Documents\artigos_2020\mediator\font\SmallApi.Application\bin\Debug\netstandard2.0\SmallApi.Application.deps.json
+C:\Users\sbtmda\Documents\artigos_2020\mediator\font\SmallApi.Application\bin\Debug\netstandard2.0\SmallApi.Application.dll
+C:\Users\sbtmda\Documents\artigos_2020\mediator\font\SmallApi.Application\bin\Debug\netstandard2.0\SmallApi.Application.pdb
+C:\Users\sbtmda\Documents\artigos_2020\mediator\font\SmallApi.Application\obj\Debug\netstandard2.0\SmallApi.Application.csprojAssemblyReference.cache
+C:\Users\sbtmda\Documents\artigos_2020\mediator\font\SmallApi.Application\obj\Debug\netstandard2.0\SmallApi.Application.AssemblyInfoInputs.cache
+C:\Users\sbtmda\Documents\artigos_2020\mediator\font\SmallApi.Application\obj\Debug\netstandard2.0\SmallApi.Application.AssemblyInfo.cs
+C:\Users\sbtmda\Documents\artigos_2020\mediator\font\SmallApi.Application\obj\Debug\netstandard2.0\SmallApi.Application.dll
+C:\Users\sbtmda\Documents\artigos_2020\mediator\font\SmallApi.Application\obj\Debug\netstandard2.0\SmallApi.Application.pdb
